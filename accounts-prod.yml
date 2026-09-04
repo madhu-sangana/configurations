@@ -3,7 +3,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related PRODUCTION API'S "
   contactDetails:
-    name: "madhu sudhan - available Manager"
+    name: "madhu sudhan - production.... Manager"
     email: "{cipher}a1dd5983de144dbf55b6108ccb2f2e1d5f9ae7df9ac7995f5653833d74169fd1df074f213a518ec317c5f006fbcd7b62"
   onCallSupport:
     - (888) 555-1234

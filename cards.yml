@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related"
+  contactDetails:
+    name: "Sangana madhu"
+    email: "sangana@eazybank.com"
+  onCallSupport:
+    - (111) 432-2356
+    - (111) 564-8721

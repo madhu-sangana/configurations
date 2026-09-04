@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBank accounts related PROD API'S "
+  contactDetails:
+    name: "madhu sudhan - Product Manager"
+    email: "product@eazybank.com"
+  onCallSupport:
+    - (888) 555-1234
+    - (777) 523-1345
